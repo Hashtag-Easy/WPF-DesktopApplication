@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashDesktopApplication", "HashDesktopApplication\HashDesktopApplication.csproj", "{E3C3DC08-0FC3-4A0C-9F38-4FB7231CDA69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSharedPackages", "HashSharedPackages\HashSharedPackages.csproj", "{70FC681A-171C-4E64-BE5D-9C30B3F393C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3C3DC08-0FC3-4A0C-9F38-4FB7231CDA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C3DC08-0FC3-4A0C-9F38-4FB7231CDA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C3DC08-0FC3-4A0C-9F38-4FB7231CDA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C3DC08-0FC3-4A0C-9F38-4FB7231CDA69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70FC681A-171C-4E64-BE5D-9C30B3F393C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FC681A-171C-4E64-BE5D-9C30B3F393C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FC681A-171C-4E64-BE5D-9C30B3F393C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FC681A-171C-4E64-BE5D-9C30B3F393C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E3A8377-CE6B-4B65-8544-C8AF64C17AED}
+	EndGlobalSection
+EndGlobal
