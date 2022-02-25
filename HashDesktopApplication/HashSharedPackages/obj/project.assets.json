@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\ASP.NET-WebApi\\HashDesktopApplication\\HashSharedPackages\\HashSharedPackages.csproj",
+      "projectUniqueName": "C:\\Repos\\WPF-DesktopApplication\\HashDesktopApplication\\HashSharedPackages\\HashSharedPackages.csproj",
       "projectName": "HashSharedPackages",
-      "projectPath": "C:\\Repos\\ASP.NET-WebApi\\HashDesktopApplication\\HashSharedPackages\\HashSharedPackages.csproj",
+      "projectPath": "C:\\Repos\\WPF-DesktopApplication\\HashDesktopApplication\\HashSharedPackages\\HashSharedPackages.csproj",
       "packagesPath": "C:\\Users\\Hashtag-Easy\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\ASP.NET-WebApi\\HashDesktopApplication\\HashSharedPackages\\obj\\",
+      "outputPath": "C:\\Repos\\WPF-DesktopApplication\\HashDesktopApplication\\HashSharedPackages\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lFIHqhf9T+n6bmgI8LDKEy4I++3ksguNeWYtgfwHThjSVPsgs/zv59WAKpMyvaMB4llACi0XTLlnoIbO+2lO5g==",
+  "dgSpecHash": "/Dc4zJwfpVXWCbTYqXlYnkVuLVt8A6lHI6YN55QAF9DZGmxsM3wVDECVl93WzzOAdJYo5desGxmuoj4hueUwAg==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\ASP.NET-WebApi\\HashDesktopApplication\\HashSharedPackages\\HashSharedPackages.csproj",
+  "projectFilePath": "C:\\Repos\\WPF-DesktopApplication\\HashDesktopApplication\\HashSharedPackages\\HashSharedPackages.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
