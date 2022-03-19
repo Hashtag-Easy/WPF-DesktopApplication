@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HashDesktopApplication.ViewModels
+namespace HashDesktopApplication.Services
 {
-    public class LaunchPageViewModel
-    {
-    }
+	internal class Helpers
+	{
+	}
 }

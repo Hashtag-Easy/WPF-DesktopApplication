@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashDesktopApplication", "HashDesktopApplication\HashDesktopApplication.csproj", "{E3C3DC08-0FC3-4A0C-9F38-4FB7231CDA69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashDesktopApplication", "HashDesktopApplication\HashDesktopApplication.csproj", "{E3C3DC08-0FC3-4A0C-9F38-4FB7231CDA69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSharedPackages", "HashSharedPackages\HashSharedPackages.csproj", "{70FC681A-171C-4E64-BE5D-9C30B3F393C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashSharedPackages", "HashSharedPackages\HashSharedPackages.csproj", "{70FC681A-171C-4E64-BE5D-9C30B3F393C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSharedPackagesTests", "HashSharedPackagesTests\HashSharedPackagesTests.csproj", "{DCDFFA1B-945D-4D50-BE05-50C1DA826EB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{70FC681A-171C-4E64-BE5D-9C30B3F393C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70FC681A-171C-4E64-BE5D-9C30B3F393C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70FC681A-171C-4E64-BE5D-9C30B3F393C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDFFA1B-945D-4D50-BE05-50C1DA826EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDFFA1B-945D-4D50-BE05-50C1DA826EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDFFA1B-945D-4D50-BE05-50C1DA826EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDFFA1B-945D-4D50-BE05-50C1DA826EB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
