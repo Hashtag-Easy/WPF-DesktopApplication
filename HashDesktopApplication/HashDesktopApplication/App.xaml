@@ -1,9 +1,12 @@
-﻿<Application x:Class="HashDesktopApplication.App"
-             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:HashDesktopApplication"
-             StartupUri="MainWindow.xaml">
-    <Application.Resources>
-         
-    </Application.Resources>
+﻿<Application
+  x:Class="HashDesktopApplication.App"
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+  StartupUri="MainWindow.xaml">
+  <Application.Resources>
+    <ResourceDictionary>
+      <Color x:Key="MainLightTheme" />
+      <Color x:Key="MainDarkTheme" />
+    </ResourceDictionary>
+  </Application.Resources>
 </Application>

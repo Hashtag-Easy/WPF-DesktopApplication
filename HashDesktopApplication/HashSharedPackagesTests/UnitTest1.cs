@@ -8,7 +8,7 @@ namespace HashSharedPackagesTests
 		[Fact]
 		public void Test1()
 		{
-			Session session = new Session();
+
 		}
 	}
 }

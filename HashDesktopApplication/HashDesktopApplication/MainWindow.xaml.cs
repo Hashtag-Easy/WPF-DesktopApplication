@@ -23,6 +23,7 @@ namespace HashDesktopApplication
         public MainWindow()
         {
             InitializeComponent();
+            Binding binding = new Binding();
         }
     }
 }
