@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace HashDesktopApplication.ViewModels
 {
-	public class HomePageViewModel
+	public class HomePageViewModel : BaseViewModel
 	{
+		public HomePageViewModel(string pageTitle, double defaultWindowHeight = 500, double defaultWindowWidth = 500) : base(pageTitle, defaultWindowHeight, defaultWindowWidth)
+		{
+		}
 	}
 }
