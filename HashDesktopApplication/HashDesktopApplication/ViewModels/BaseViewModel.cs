@@ -1,6 +1,5 @@
 ﻿using System.ComponentModel;
 using System.Runtime.CompilerServices;
-using HashDesktopApplication.Attributes;
 
 namespace HashDesktopApplication.ViewModels
 {
@@ -9,7 +8,6 @@ namespace HashDesktopApplication.ViewModels
 		private string title = string.Empty;
 		private double defaultWindowHeight = default;
 		private double defaultWindowWidth = default;
-		private 
 
 		public string Title 
 		{ 
@@ -20,6 +18,7 @@ namespace HashDesktopApplication.ViewModels
 				OnPropertyChanged(nameof(Title));
 			}
 		}
+
 		public double DefaultWindowHeight
 		{
 			get => defaultWindowHeight;
@@ -29,6 +28,7 @@ namespace HashDesktopApplication.ViewModels
 				OnPropertyChanged(nameof(DefaultWindowHeight));
 			}
 		}
+
 		public double DefaultWindowWidth
 		{
 			get => defaultWindowWidth;
@@ -54,13 +54,6 @@ namespace HashDesktopApplication.ViewModels
 				return;
 
 			PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(callerName));
-		}
-
-		public enum SpecialEntityCode
-		{
-			[Value("")]
-			NonBreakableSpace,
-
 		}
 	}
 }

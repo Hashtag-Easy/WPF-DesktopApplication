@@ -5,6 +5,7 @@
   StartupUri="MainWindow.xaml">
   <Application.Resources>
     <ResourceDictionary>
+      <Color x:Key="MainBackground">#333333</Color>
       <Color x:Key="MainLightTheme" />
       <Color x:Key="MainDarkTheme" />
     </ResourceDictionary>

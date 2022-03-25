@@ -8,17 +8,9 @@ namespace HashDesktopApplication.Models
 {
     public class RegistrationData
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string Email { get; set; }
-        public string UserName { get; set; }
-
-        public RegistrationData()
-        {
-            FirstName = string.Empty;
-            LastName = string.Empty;
-            Email = string.Empty;
-            UserName = string.Empty;
-        }
+        public string? FirstName { get; set; }
+        public string? LastName { get; set; }
+        public string? Email { get; set; }
+        public string? UserName { get; set; }
     }
 }

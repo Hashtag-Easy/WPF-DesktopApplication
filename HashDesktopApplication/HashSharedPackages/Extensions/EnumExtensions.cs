@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using HashDesktopApplication.Attributes;
 
-namespace HashDesktopApplication.Services.Extensions
+namespace HashSharedPackages.Extensions
 {
 	public static class EnumExtensions
 	{

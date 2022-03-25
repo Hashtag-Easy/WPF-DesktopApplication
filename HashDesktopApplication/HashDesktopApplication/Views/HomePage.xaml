@@ -6,7 +6,9 @@
       xmlns:local="clr-namespace:HashDesktopApplication.Views"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="HomePage">
+      xmlns:vm="clr-namespace:HashDesktopApplication.ViewModels"
+      Title="{Binding Title}"
+      Background="{StaticResource ResourceKey}">
 
     <Grid>
         
